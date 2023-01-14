@@ -4,11 +4,8 @@
 <p><img align="right"  height="300" width="240" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159" alt="firedrakesin" /></p>
 
 - 📖 Grad with Computer Science and Engineering Major
-
-- 💬 Ask me about **React and Python**
-
+- 💬 My metrics don't count the private repos.
 - 📫 How to reach me **garima.yadav200014@gmail.com** or by **link below**
-
 - ⚡ Fun fact **Google rents out goats to replace lawnmowers.**
 
 <h3 align="left">Connect with me:</h3>
