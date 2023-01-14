@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garima Yadav</h1>
 <h3 align="center">A Full Stack Developer, trying to achieve unrealistic goals.</h3>
 
-<p><img align="right"  height="550" width="400" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159" alt="firedrakesin" /></p>
+<p><img align="right"  height="300" width="240" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159" alt="firedrakesin" /></p>
 
 - 🌱 I’m currently learning **Java**
 
