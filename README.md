@@ -30,7 +30,7 @@
 </br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firedrakesin&" alt="firedrakesin" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=firedrakesin&show_icons=true&theme=radical" alt="firedrakesin" /></p>
+
 
 ![My Metrics](https://metrics.lecoq.io/firedrakesin?template=classic&activity=1&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true)
 
