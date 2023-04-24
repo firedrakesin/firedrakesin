@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garima Yadav</h1>
 <h3 align="center">A Full Stack Developer, trying to achieve unrealistic goals.</h3>
 
-<p><img align="right"  height="260" width="390" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="firedrakesin" /></p>
+<p><img align="right"  height="260" width="390" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="firedrakesin" /></p>
 
 - 📖 Grad with Computer Science and Engineering Major
 - 💬 My metrics don't count the private repos.
